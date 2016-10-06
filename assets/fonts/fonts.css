@@ -1,0 +1,35 @@
+/* Roboto */
+@font-face {
+   src: url("Roboto/Roboto-Regular.ttf") format(truetype);
+   font-family: "roboto";
+}
+
+@font-face {
+   src: url("Roboto/Roboto-Light.ttf") format(truetype);
+   font-family: "roboto";
+   font-weight: 300;
+}
+
+@font-face {
+   src: url("Roboto/Roboto-Bold.ttf") format(truetype);
+   font-family: "roboto";
+   font-weight: 700;
+}
+
+/* Yrso */
+@font-face {
+   src: url("Yrsa/Yrsa-Regular.ttf") format(truetype);
+   font-family: "yrsa";
+}
+
+@font-face {
+   src: url("Yrsa/Yrsa-Light.ttf") format(truetype);
+   font-family: "yrsa";
+   font-weight: 300;
+}
+
+@font-face {
+   src: url("Yrsa/Yrsa-Bold.ttf") format(truetype);
+   font-family: "yrsa";
+   font-weight: 700;
+}
